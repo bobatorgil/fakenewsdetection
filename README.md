@@ -1,6 +1,6 @@
 # Multimodal Fake News Detection
 
-This repository contains a cleaned and modular implementation of a multimodal fake news detection model using news text, images, generated or real comments, and emotion features.
+This repository contains a cleaned and modular implementation of a multimodal fake news detection model using news text, images, generated comments, and emotion features.
 
 ## Project structure
 
