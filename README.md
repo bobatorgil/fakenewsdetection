@@ -38,7 +38,7 @@ The proposed framework consists of four main components:
 ## Repository structure
 
 ```text
-journal_code_refactor/
+fakenewsdetection/
 ├── main.py                         # Main training entry point
 ├── requirements.txt                # Minimal Python dependencies
 ├── run_train.sh                    # Example training script
